@@ -1,2 +1,2 @@
 # api-go
-Simple CRUD in golang
+Golang - API Rest
